@@ -1,0 +1,42 @@
+[ 2016-01-27T09:58:41+08:00 ] 127.0.0.1 /thinkphp_study/jg_push/index.php/jguangpush/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Jguangpush
+
+[ 2016-01-27T09:59:00+08:00 ] 127.0.0.1 /thinkphp_study/jg_push/index.php/Jguangpush/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Jguangpush
+
+[ 2016-01-27T10:00:07+08:00 ] 127.0.0.1 /thinkphp_study/jg_push/index.php/%20Jguangpush/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块: Jguangpush
+
+[ 2016-01-27T10:00:52+08:00 ] 127.0.0.1 /thinkphp_study/jg_push/index.php/Jguangpush/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Jguangpush
+
+[ 2016-01-27T10:05:39+08:00 ] 127.0.0.1 /thinkphp_study/jg_push/index.php?m=jguangpush&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Jguangpush
+
+[ 2016-01-27T10:07:09+08:00 ] 127.0.0.1 /thinkphp_study/jg_push/index.php/hello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Hello
+
+[ 2016-01-27T10:07:54+08:00 ] 127.0.0.1 /thinkphp_study/jg_push/index.php/index/hello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+

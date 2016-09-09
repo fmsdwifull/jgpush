@@ -1,0 +1,527 @@
+[ 2016-04-08T09:12:43+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.072004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.030002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.031002s ]
+
+[ 2016-04-08T09:16:44+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 参数错误或者未定义:registerid
+
+[ 2016-04-08T09:46:09+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=5151
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: notification and message can not all be null
+
+[ 2016-04-08T09:46:38+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=0709eed4a23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: notification and message can not all be null
+
+[ 2016-04-08T09:47:08+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=0709eed4a23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: notification and message can not all be null
+
+[ 2016-04-08T09:47:59+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=0709eed4a23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 98 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-04-08T09:51:29+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=Array
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T09:51:29+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=Array
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T09:53:26+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=Array
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T09:53:27+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=Array
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T09:57:23+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=Array
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T09:57:23+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=Array
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T09:58:54+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=Array
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T09:58:55+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=Array
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T10:13:27+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=2ll_registerid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T10:13:27+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=ll_registerid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T10:14:49+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T10:14:49+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T10:16:31+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T10:16:31+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: cannot find user by this audience
+
+[ 2016-04-08T10:17:36+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=0a07c361ea9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 98 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T10:17:36+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=0709eed4a23
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 98 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T10:22:04+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 98 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-08T10:54:02+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 98 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-08T11:00:56+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: type D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-04-08T11:01:42+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: type D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T11:05:39+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: type D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 94 行.
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 108 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T11:21:53+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: type D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T11:22:54+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined variable: type D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T11:23:10+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: type D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 95 行.
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 109 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T11:25:08+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T13:22:04+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-04-08T13:22:04+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T13:26:36+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T13:29:29+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=0a07c361ea9&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-08T13:29:29+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=0709eed4a23&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T13:29:30+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T13:29:30+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=020758a2c6c&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-08T13:30:14+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=020758a2c6c&type=jiesuan
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 107 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T13:35:53+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=0a07c361ea9&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T13:35:53+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=0709eed4a23&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T13:35:54+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=00019a622d3&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T13:35:54+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=020758a2c6c&type=paigong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-08T13:36:28+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/sendMessage?registerId=020758a2c6c&type=jiesuan
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: br D:\wamp\www\thinkphp_study\jg_push\Application\Home\Controller\JpushController.class.php 第 110 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-04-08T18:03:42+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/getReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: X-Rate-Limit-Limit D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 51 行.
+NOTIC: [8] Undefined index: X-Rate-Limit-Remaining D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 52 行.
+NOTIC: [8] Undefined index: X-Rate-Limit-Reset D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 53 行.
+ERR: The app_key is not allowed for this api
+
+[ 2016-04-08T18:04:20+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/getReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: X-Rate-Limit-Limit D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 51 行.
+NOTIC: [8] Undefined index: X-Rate-Limit-Remaining D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 52 行.
+NOTIC: [8] Undefined index: X-Rate-Limit-Reset D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 53 行.
+ERR: The app_key is not allowed for this api
+
+[ 2016-04-08T18:04:23+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/getReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: X-Rate-Limit-Limit D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 51 行.
+NOTIC: [8] Undefined index: X-Rate-Limit-Remaining D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 52 行.
+NOTIC: [8] Undefined index: X-Rate-Limit-Reset D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 53 行.
+ERR: The app_key is not allowed for this api
+
+[ 2016-04-08T18:04:25+08:00 ] 192.168.168.103 /thinkphp_study/jg_push/index.php/home/Jpush/getReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: X-Rate-Limit-Limit D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 51 行.
+NOTIC: [8] Undefined index: X-Rate-Limit-Remaining D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 52 行.
+NOTIC: [8] Undefined index: X-Rate-Limit-Reset D:\wamp\www\thinkphp_study\jg_push\ThinkPHP\Library\Vendor\JPush\core\JPushException.php 第 53 行.
+ERR: The app_key is not allowed for this api
+
